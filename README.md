@@ -4,8 +4,7 @@
 
 - Dữ liệu quá lớn 8GB nên cần up notebook lên collab và chạy gdown trong notebook
 
-- Các file donepaths test_final csv_test đều có thể tải trong notebook để đây chỉ là dự phòng nếu không tải được
+- File csv_test có thể tải trong notebook để đây chỉ là dự phòng nếu không tải được
 
 - csv_test.csv chứa tên file train của các competition
-- done_paths.csv tên folder giải nén mà file train data sẽ nằm trong đó
 - merged_df là file chứa tên cột target và file train, folder chứa data của competition dùng cho việc xóa target col (đã merge từ các file trên để dễ dùng) khi dùng collab cần up lên collab
