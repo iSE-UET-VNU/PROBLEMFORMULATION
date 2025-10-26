@@ -1,0 +1,279 @@
+﻿file_name,train_file,flag
+3-aikuthon.zip,x,nlp
+111-1-ntut-dl-app-hw1.zip,x,
+113-artificial-intelligence-hw-2.zip,train.csv,
+2022-2-ds-solution-ch8.zip,train.csv,
+2023-psl-week-using-bloomberg-news.zip,train.csv,
+aacc-2023-helpwithhemolysis.zip,x,chắc phải merge
+academic-query-classification.zip,x,nlp
+additionaldatathon23.zip,train.csv,
+ai-ninja-warrior-july-2023.zip,ecommerce_shopping_train.csv,
+ai-serving-grid-stability.zip,train.csv,
+air-quality-prediction-from-historical-data.zip,air_quality_train.csv,
+analyze-the-insights-over-mental-health-data.zip,train.csv,
+anyas-gojo-revival.zip,sheet1.csv/sheet2.csv,"đặt tên cột siêu ảo, có 2 bộ data"
+apartment-prices-in-the-czech-republic.zip,train.csv,
+arabic-poem-classification.zip,x,nlp
+aresd-2023-covidchallenge.zip,train.csv,
+artificial-text-detection-homework.zip,x,nlp
+ashrae-energy-prediction.zip,x,đọc lại description thì mới dùng được
+bank-churn-lessgo.zip,train.csv,
+bcdatall.zip,train.csv,
+bct-summit.zip,train.csv,
+bengali-ged.zip,x,nlp
+big-data-analytics-certification-kr-2024-1.zip,train.csv,
+black-jack-smart-effect-of-removal-ml.zip,train.csv,đặt tên cột thiếu ý nghĩa
+blueberry-yield-forecasting-competition.zip,train.csv,
+borne.zip,train.csv,
+buying-wine.zip,train.csv,
+cameroon-air-quality-prediction.zip,train.csv,
+cat-in-the-dat-ii.zip,train.csv,
+cat-in-the-dat.zip,train.csv,
+chaii-hindi-and-tamil-question-answering.zip,x,nlp
+clblp-task-2.zip,x,nlp
+commonlit-evaluate-student-summaries.zip,x,nlp
+commonlitreadabilityprize.zip,x,nlp
+compe-kultum-gokil.zip,train.csv,
+competitive-data-science-predict-future-sales.zip,sales_train.csv,đọc lại description thì mới dùng được
+cool-quiet-city-competition.zip,x,chắc phải đọc từng file rồi ném vào
+copy-of-binary-classification-with-a-bank-churnqq.zip,train.csv,
+copy-of-classification.zip,x,bộ này rác
+cordai-arxiv-paper-classification.zip,x,nlp
+credit-card-fraud-prediction.zip,train.csv,
+cro-ds-test-condominium-price-prediction-th.zip,train.csv,xem lại phần text có phải categorical không
+cuboulder-iot-f23.zip,train.csv,
+data-guild-will-you-be-productive-today.zip,train.csv,
+data-science-capstone-project-2023.zip,spring23_final_train_with_price.csv,
+datathon23-machine-learning-competition.zip,train.csv,
+datathon2023.zip,train.csv,xem lại phần text có phải categorical không
+datathon-2024.zip,x,nlp?
+dataverse_2023.zip,x,nlp
+deepshare-basic-competition.zip,x,xem lại
+deepshare-playground-series2.zip,x,xem lại
+defi-text-mine-2025.zip,x,nlp
+depi-r-2-competition-1.zip,x,nlp
+detect-ai-vs-human-generated-images.zip,x,ảnh ????
+dev-o-thon-23.zip,x,xem lại
+diabetes-prediction-competitiontfug-chd-nov-2022.zip,train_data.csv,
+dlai7-digit-recognizer.zip,train.csv,file nhiều cột
+dont-overfit-ii.zip,train.csv,tên cột không có ý nghĩa
+ds-competition-ai-club.zip,train.csv,
+dsb-521-ames-housing-challenge.zip,train.csv,
+early-prediction-of-sepsis.zip,"train_x.csv, train_y.csv",bộ này phải merge mới đủ cột
+eds-232-ocean-chemistry-prediction-for-calcofi.zip,train.csv,
+education-leaving-uncertain-future.zip,train.csv,
+eedi-mining-misconceptions-in-mathematics.zip,x,nlp
+egg-sales-predict-challenge-23sl.zip,train_egg_sales.csv,
+electrance-predicting-superconductivity-peaks.zip,train.csv,
+emsi-5iir-ds.zip,train.csv,tên cột không có ý nghĩa
+energy-forecasting-data-challenge-public.zip,train.csv,
+epoch-24.zip,x,xem lại
+epoch-25.zip,x,chắc phải merge
+equity-post-HCT-survival-predictions.zip,train.csv,
+esa-eo4soilprotection-2024-predicting-erosion-cat.zip,train_erosion.csv,
+esa-eo4soilprotection-2024-predicting-soc-density.zip,train_soc.csv,
+euos-slas.zip,x,xem lại
+expedia-hotel-recommendations.zip,x,"file to quá, xem lại"
+exploring-predictive-health-factors.zip,train.csv,
+f1nalyze-datathon-ieeecsmuj.zip,x,"file to quá, xem lại"
+financemachinelearning.zip,train.csv,
+forecasting-retail-purchases.zip,train.csv,
+forest-fire-prediction-epoch-hackathon.zip,x,"bộ này nhiều file, nếu cần thì để dành làm thủ công"
+formula-1-lap-time-prediction-nwvs-s00e02.zip,train.csv,
+google-quest-challenge.zip,x,nlp
+gvu-spring-2024-kaggle-competition-1.zip,train.csv,
+gvu-spring-2024-project-1.zip,train.csv,
+gvu-spring-2024-project-2.zip,train.csv,
+gvu-spring-2025-data-454-project-2.zip,train.csv,
+h2oai-predict-the-llm.zip,x,nlp
+hackathon-DL-IndabaX-MDG-2024.zip,train.csv,
+hackinit.zip,Train.csv,
+home-credit-default-risk.zip,x,"bộ này nhiều file, nếu cần thì để dành làm thủ công"
+human-text-vs-ai-text-classification-2024.zip,x,nlp
+icip-aes-2024-autumn-classification.zip,asap-train-2024autumn.csv,
+icip-aes-2024-spring-classification.zip,asap-bnu-train-4.csv,
+icip-aes-2024-spring-regression.zip,asap-bnu-train-2.csv,
+icr-identify-age-related-conditions.zip,train.csv,
+ieee-fraud-detection.zip,x,"xem lại, chắc merge phát là xong"
+instant-gratification.zip,train.csv,
+ipba-17-time-series-forecasting-png.zip,x,xem lại
+IPM3211-City-Heat-Noise.zip,x,"bộ này nhiều file, nếu cần thì để dành làm thủ công"
+ise-competition-1.zip,x,nlp
+itj-labs-workshop-competition-pima-dataset.zip,train.csv,
+k-2-praktikum-ii-nb-dtl-random-forest-xg-boost.zip,transformer_classification.csv,
+k-means-clustering-xm.zip,data.csv,
+kaggle-biochallenge-cirrhosis-detection.zip,train.csv,
+km037classification.zip,x,rác
+km054classification.zip,x,rác
+km055classification.zip,x,rác
+km055regression.zip,train.csv,
+kotakgi-imbalanced-data-classification.zip,train.csv,tên cột không có ý nghĩa
+learning-agency-lab-automated-essay-scoring-2.zip,x,nlp
+learning-equality-curriculum-recommendations.zip,x,???
+lhs-ml-club-kaggle-challenge-1-linear-regression.zip,train.csv,
+linear-reg-sample.zip,train.csv,tên cột không có ý nghĩa
+linking-writing-processes-to-writing-quality.zip,x,"bộ này hơi time series, nếu cần thì làm thủ công"
+linkit-beginner-challenge-sose-23.zip,bank_train.csv,
+lish-moa.zip,x,"bộ này nhiều file, nếu cần thì để dành làm thủ công"
+liverpool-ion-switching.zip,train.csv,
+llm-zoomcamp-2024-competition.zip,x,nlp
+llms-you-cant-please-them-all.zip,x,"rác, cần xem lại"
+m5-forecasting-accuracy.zip,x,"bộ này nhiều file, nếu cần thì để dành làm thủ công"
+m5-forecasting-uncertainty.zip,x,"bộ này nhiều file, nếu cần thì để dành làm thủ công"
+machine-failure-prediction-iti-data-science.zip,train.csv,
+manufacturer-name-clustering.zip,x,nlp
+march-machine-learning-mania-2023.zip,x,"bộ này nhiều file, nếu cần thì để dành làm thủ công"
+march-machine-learning-mania-2025.zip,x,"bộ này nhiều file, nếu cần thì để dành làm thủ công"
+mastering-ordinal-regression-with-wine-data.zip,train.csv,
+measuring-student-persistence-and-completion-rate.zip,x,xem lại
+mens-march-mania-2022.zip,x,"bộ này nhiều file, nếu cần thì để dành làm thủ công"
+mentally-stability-of-the-person.zip,train.csv,
+ml2021spring-hw1.zip,covid.train.csv,
+ml-course-hw-1-regression.zip,train.csv,
+ml-model-building.zip,train.csv,
+ml-olympiad-ai-ml-malaysia.zip,train.csv,
+ml-olympiad-can-you-guess-beer-style.zip,train.csv,
+ml-olympiad-detect-chatgpt-answers.zip,x,nlp
+ml-olympiad-detect-hallucinations-in-llms.zip,x,nlp
+ml-olympiad-multilingual-spell-correction.zip,x,nlp
+ml-olympiad-predicting-earthquake-damage.zip,train.csv,
+ml-olympiad-predicting-wellness.zip,"bodyfat-comp.csv, bodyfat-validate.csv",merge cũng được ??
+ml-olympiad-predictive-maintenance.zip,train_set.csv,
+ml-olympiad-smoking.zip,train.csv,
+ml-olympiad-waterqualityprediction.zip,train.csv,
+ml-zoomcamp-2024-competition.zip,x,"bộ này nhiều file, nếu cần thì để dành làm thủ công"
+mlolympiadbd2024.zip,train.csv,
+mlx-stage-1-round-1-predict-students-marks.zip,train.csv,
+modelify-innovision-2k24.zip,train.csv,
+mosaic24-ps1.zip,train.csv,
+motorcyclehabitprediction.zip,train.csv,
+music-subscriptions-churn-predictor.zip,train.csv,
+narou.zip,train.csv,
+nasa-software-defect-prediction-sdp-challenge.zip,"Train_Features.csv, Train_Output.csv",
+newcompe.zip,train.csv,
+news-topics-2024.zip,x,nlp
+neymark-signal-processing.zip,x,time series quá
+nlp-competition-cuet-ete-day-2022.zip,x,nlp
+nlp-sentiment-analysis-xm.zip,x,nlp
+nocodemnis.zip,mnist_train.csv,kiểu mnist đổi về csv
+nsutai-kaggle-contributor-tutorial.zip,"train_X.csv, train_Y.csv",tên cột không có ý nghĩa
+nwds-k.zip,train.csv,
+nwds-xhr.zip,train.csv,
+nwds-xstrikes.zip,train.csv,
+nwds-xswing.zip,train.csv,
+oemc-hackathon-eu-land-cover-classification.zip,train.csv,
+optimizingdefaultmodelbyfirstpaymentdefault.zip,kaggle_dataset.csv,tên cột không có ý nghĩa
+patient-healthcare.zip,train.csv,
+phems-hackathon-early-sepsis-prediction.zip,x,"bộ này nhiều file, nếu cần thì để dành làm thủ công"
+playground-series-s3e1.zip,train.csv,
+playground-series-s3e3.zip,train.csv,
+playground-series-s3e5.zip,train.csv,
+playground-series-s3e7.zip,train.csv,
+playground-series-s3e9.zip,train.csv,
+playground-series-s3e11.zip,train.csv,
+playground-series-s3e13.zip,train.csv,
+playground-series-s3e14.zip,train.csv,
+playground-series-s3e16.zip,train.csv,
+playground-series-s3e19.zip,train.csv,
+playground-series-s3e21.zip,x,rác
+playground-series-s3e22.zip,train.csv,
+playground-series-s3e24.zip,train.csv,
+playground-series-s3e25.zip,train.csv,
+playground-series-s3e26.zip,train.csv,
+playground-series-s4e1.zip,train.csv,
+playground-series-s4e2.zip,train.csv,
+playground-series-s4e3.zip,train.csv,
+playground-series-s4e4.zip,train.csv,
+playground-series-s4e5.zip,train.csv,
+playground-series-s4e6.zip,train.csv,
+playground-series-s4e7.zip,train.csv,
+playground-series-s4e8.zip,train.csv,
+playground-series-s4e9.zip,train.csv,
+playground-series-s4e10.zip,train.csv,
+playground-series-s4e11.zip,train.csv,
+playground-series-s4e12.zip,train.csv,
+playground-series-s5e1.zip,train.csv,
+playground-series-s5e2.zip,train.csv,
+playground-series-s5e3.zip,train.csv,
+playground-series-s5e4.zip,train.csv,
+playground-series-s5e5.zip,train.csv,
+playground-series-s5e6.zip,train.csv,
+playground-series-s5e7.zip,train.csv,
+playground-series.zip,train.csv,tên cột không có ý nghĩa
+podcast-listening-speeds.zip,train.csv,
+portland-housing-age-prediction-nwvs-s00e01.zip,train.csv,
+porto-seguro-safe-driver-prediction.zip,train.csv,
+predict-app-users-next-step-release-version.zip,train.csv,
+predict-customer-churn-a-binary-classification-ch.zip,train.csv,
+predict-shots-in-the-premier-league.zip,train.csv,
+Predict-the-Customer-Satisfaction-CSE-22.zip,train_dataset.csv,
+predict-the-wind-speed-at-a-wind-turbine.zip,train.csv,
+predicting-lead-concentration-in-the-united-states.zip,train.csv,
+predicting-sales-quantity-in-our-dynamic-gridworld.zip,"train.csv, supplemental_cities.csv",merge thử xem sao
+prediction-interval-competition-i-birth-weight.zip,x,xem lại
+prediction-of-a-smoker.zip,train.csv,
+prediction-of-electric-power.zip,train_df.csv,tên cột không có ý nghĩa
+prediction-of-seriously-ill-patients.zip,train_df.csv,
+prediction-of-tourist-arrivals.zip,train_df.csv,
+probabilistic-forecasting-i-temperature.zip,train_and_Public.csv,
+proton-x-nlp-03-blog-title-classfication.zip,x,nlp
+quantifying-3-pt-def-in-ncaam-with-tracking-data.zip,x,"bộ này nhiều file, nếu cần thì để dành làm thủ công"
+quitting-smoking-bgu-2025.zip,train.csv,
+recsysmasterfds-2024.zip,train.csv,
+regipa.zip,x,nlp
+reserva-confirmada.zip,train.csv,
+rohlik-orders-forecasting-challenge.zip,"train.csv, train_calendar.csv",chắc phải merge
+rohlik-sales-forecasting-challenge-v2.zip,x,"bộ này nhiều file, nếu cần thì để dành làm thủ công"
+rossmann-store-sales.zip,"train.csv, store.csv",
+scrabble-player-rating.zip,x,"bộ này nhiều file, nếu cần thì để dành làm thủ công"
+sentiment-analysis-company-reviews.zip,x,nlp
+shotquality-rebounding.zip,x,"bộ này nhiều file, nếu cần thì để dành làm thủ công"
+sleep-disorder-prediction-challenge.zip,train_data.csv,
+smoker-binary-class.zip,train.csv,
+ss4gg-hackathon-mir-soil-spectroscopy.zip,train.csv,
+ss4gg-hackathon-nir-neospectra.zip,x,"bộ này nhiều file, nếu cần thì để dành làm thủ công"
+star-type-classification.zip,train_star.csv,
+streaming-subscription-churn-model.zip,train.csv,
+surrogate-playground-series-s4e4.zip,train.csv,
+tab-hack-20.zip,Week8_train.csv,
+tabular-playground-series-apr-2021.zip,train.csv,
+tabular-playground-series-apr-2022.zip,"train.csv, train_labels.csv",
+tabular-playground-series-aug-2021.zip,train.csv,tên cột không có ý nghĩa
+tabular-playground-series-aug-2022.zip,train.csv,tên cột không có ý nghĩa
+tabular-playground-series-dec-2021.zip,train.csv,
+tabular-playground-series-feb-2021.zip,train.csv,
+tabular-playground-series-feb-2022.zip,train.csv,
+tabular-playground-series-jan-2022.zip,train.csv,
+tabular-playground-series-jul-2021.zip,train.csv,
+tabular-playground-series-jul-2022.zip,data.csv,tên cột không có ý nghĩa
+tabular-playground-series-jun-2022.zip,data.csv,tên cột không có ý nghĩa
+tabular-playground-series-mar-2021.zip,train.csv,tên cột không có ý nghĩa
+tabular-playground-series-mar-2022.zip,train.csv,
+tabular-playground-series-may-2022.zip,train.csv,tên cột không có ý nghĩa
+tabular-playground-series-nov-2021.zip,train.csv,tên cột không có ý nghĩa
+tabular-playground-series-oct-2021.zip,train.csv,tên cột không có ý nghĩa
+tabular-playground-series-sep-2021.zip,train.csv,tên cột không có ý nghĩa
+tabular-playground-series-sep-2022.zip,train.csv,
+tams-ais-winter-2022-competition.zip,train_data.csv,
+tensorflow-user-group-bangalore.zip,x,nlp
+test-hackday-7.zip,x,
+testtestbambooddd.zip,train.csv,
+tfug-prayagraj-breast-cancer-diagnostic.zip,train.csv,
+tfugagadir-ml-olympiad-2023-argania-detection.zip,train.csv,tên cột không có ý nghĩa
+titanic.zip,train.csv,
+train-a-strong-stockfish-wdl-model.zip,x,có vẻ nlp
+train-an-ai-to-play-chess.zip,x,có vẻ nlp
+train-your-own-stockfish-nnue.zip,x,có vẻ nlp
+trends-assessment-prediction.zip,x,rác
+understanding-regression-through-competition.zip,train.csv,
+url-cypher-battle-for-the-digital-streets.zip,phishing_dataset/train.csv,
+vehicle-loan-defaulter-tfug-delhi-challenge-1-2022.zip,train.csv,
+ventilator-pressure-prediction.zip,train.csv,
+vnpt-ai-class-2022-data-science.zip,x,"bộ này nhiều file, nếu cần thì để dành làm thủ công"
+vortex.zip,Vortex Train.csv,
+wec-intel-rectask.zip,"drive-download-20221023T093215Z-001/x_train.csv, drive-download-20221023T093215Z-001/y_train.csv",
+widsdatathon2023.zip,train_data.csv,
+widsdatathon2024-challenge1.zip,training.csv,
+widsdatathon2024-challenge2.zip,train.csv,
+wild-blueberry-yield.zip,train.csv,
+wind-power-prediction-contest-202312.zip,train.csv,tiếng trung
